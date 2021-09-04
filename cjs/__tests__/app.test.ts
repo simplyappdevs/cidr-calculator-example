@@ -1,5 +1,3 @@
-import {TestWatcher} from '@jest/core';
-
 /**
  * We are not doing real unit test here. This is just to proof that our package
  * will be excluded from consuming application unittest
