@@ -1,4 +1,4 @@
-# Example for @simplyappdevs/cidr-calculator
+# CommonJS example for `cidr-calculator` module
 
 ## How To Build
 

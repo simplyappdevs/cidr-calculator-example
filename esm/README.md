@@ -1,4 +1,4 @@
-# Example for @simplyappdevs/cidr-calculator
+# ESM example for `cidr-calculator` module
 
 ## How To Build
 
