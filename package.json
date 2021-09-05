@@ -1,6 +1,6 @@
 {
   "name": "cidr-calculator-example",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Example for @simplyappdevs/cidr-calculator ESM and CommonJS",
   "main": "index.js",
   "scripts": {
